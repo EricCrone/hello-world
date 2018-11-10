@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+This will be a very interesting project when it is complete
